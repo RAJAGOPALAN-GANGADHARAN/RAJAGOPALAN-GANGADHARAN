@@ -52,7 +52,7 @@ Can work with:
   <a href="https://www.quora.com/profile/Rajagopalan-Gangadharan-1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="Rajagopalan" height="30" width="30" /></a>
   <a href="https://codeforces.com/profile/g.raju2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Rajagopalan" height="30" width="30" /></a>
   <a href="https://leetcode.com/marcusdorian/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Rajagopalan" height="30" width="30" /></a>
-  <a href="https://summerofcode.withgoogle.com/archive/2019/projects/5011585305673728/" target="blank"><img align="center" src="https://github.com/RAJAGOPALAN-GANGADHARAN/Host-Server/1200px-GSoC-icon.svg.png" alt="Rajagopalan" height="30" width="30" /></a>
-  <a href="https://www.hackerearth.com/@g.raju2000" target="blank"><img align="center" src="https://github.com/RAJAGOPALAN-GANGADHARAN/Host-Server/HackerEarth_logo.png" alt="Rajagopalan" height="30" width="30" /></a>
-  <a href="https://www.hackerrank.com/g_raju2000" target="blank"><img align="center" src="https://github.com/RAJAGOPALAN-GANGADHARAN/Host-Server/HackerRank_logo.png" alt="Rajagopalan" height="30" width="30" /></a>W
+  <a href="https://summerofcode.withgoogle.com/archive/2019/projects/5011585305673728/" target="blank"><img align="center" src="https://rajagopalan-gangadharan.github.io/Host-Server/1200px-GSoC-icon.svg.png" alt="Rajagopalan" height="30" width="30" /></a>
+  <a href="https://www.hackerearth.com/@g.raju2000" target="blank"><img align="center" src="https://rajagopalan-gangadharan.github.io/Host-Server/HackerEarth_logo.png" alt="Rajagopalan" height="30" width="30" /></a>
+  <a href="https://www.hackerrank.com/g_raju2000" target="blank"><img align="center" src="https://rajagopalan-gangadharan.github.io/Host-Server/HackerRank_logo.png" alt="Rajagopalan" height="30" width="30" /></a>W
 </p>
