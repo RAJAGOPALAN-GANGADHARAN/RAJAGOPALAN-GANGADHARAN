@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
 ![Rajagopalan stats](https://github-readme-stats.vercel.app/api?username=RAJAGOPALAN-GANGADHARAN&theme=radical&include_all_commits=true)
 
-![Rajagopalan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAJAGOPALAN-GANGADHARAN&layout=compact)
 
+Can work with:
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
@@ -44,14 +44,15 @@ Here are some ideas to get you started:
 </p>
 
 
+![Rajagopalan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAJAGOPALAN-GANGADHARAN&layout=compact)
+
 <p align="center"> 
   <a href="https://www.linkedin.com/in/rajagopalan-gangadharan/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Rajagopalan" height="30" width="30" /></a>
   <a href="https://www.kaggle.com/rajagopalang" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Rajagopalan" height="30" width="30" /></a>
   <a href="https://www.quora.com/profile/Rajagopalan-Gangadharan-1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="Rajagopalan" height="30" width="30" /></a>
   <a href="https://codeforces.com/profile/g.raju2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Rajagopalan" height="30" width="30" /></a>
   <a href="https://leetcode.com/marcusdorian/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Rajagopalan" height="30" width="30" /></a>
-  <a href="https://www.quora.com/profile/Rajagopalan-Gangadharan-1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="Rajagopalan" height="30" width="30" /></a>
-  <a href="https://www.quora.com/profile/Rajagopalan-Gangadharan-1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="Rajagopalan" height="30" width="30" /></a>
-  <a href="https://www.quora.com/profile/Rajagopalan-Gangadharan-1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="Rajagopalan" height="30" width="30" /></a>
-  <a href="https://www.quora.com/profile/Rajagopalan-Gangadharan-1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="Rajagopalan" height="30" width="30" /></a>
+  <a href="https://summerofcode.withgoogle.com/archive/2019/projects/5011585305673728/" target="blank"><img align="center" src="1200px-GSoC-icon.svg.png" alt="Rajagopalan" height="30" width="30" /></a>
+  <a href="https://www.hackerearth.com/@g.raju2000" target="blank"><img align="center" src="HackerEarth_logo.png" alt="Rajagopalan" height="30" width="30" /></a>
+  <a href="https://www.hackerrank.com/g_raju2000" target="blank"><img align="center" src="HackerRank_logo.png" alt="Rajagopalan" height="30" width="30" /></a>W
 </p>
