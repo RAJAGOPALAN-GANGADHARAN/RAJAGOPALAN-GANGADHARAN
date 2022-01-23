@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on [JSOS](https://github.com/RAJAGOPALAN-GANGADHARAN/JS-OS)
 - 💬 Ask me about [here](https://rajagopalan-portfolio.herokuapp.com/#contact)
 - 📫 How to reach me: fire up a mail to [g.raju2000@gmail.com](mailto:g.raju2000@gmail.com?subject=Hi)
-- ⚡ Fun fact: I hate Java (Just kidding I can adapt as per requirements 😎)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RAJAGOPALAN-GANGADHARAN" alt="Rajagopalan" /> </p>
 
